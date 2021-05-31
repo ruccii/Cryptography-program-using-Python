@@ -39,7 +39,7 @@ Developing a cryptography program in python to encrypt and decrypt a normal text
 - Other way of using python is using google colab (Go to Google colab in google) and run python using your machine (including mobile phones).
 
 ### Anaconda:-  
-- Go to  www.anacond.com  & download.
+- Go to  www.anaconda.com  & download.
 - It is like a  bundle that is downloaded with python and along with famous libraries. It is preferred by most data scientists.
 - Find anaconda navigator in your machine and open it. You will find different visualizing tools like jupyter lab, jupyter notebook, spyder, orange3, vs code, rstudio, vs code. We need this bundle for jupyter notebook.
 
